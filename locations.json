@@ -6,28 +6,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-         78.656891,
-          11.127123
+       80.265989,
+         13.085130
         ]
       },
       "properties": {
-        "mass": "21",
+        "mass": "45000",
         "name": "Chennai",
-        "reclong": "78.656891",
-        "geolocation_address": null,
+        "reclong": "80.2659891",
+        "CSCCentres": 450,
         "geolocation_zip": null,
         "year": "1880-01-01T00:00:00.000",
         "geolocation_state": null,
         "fall": "Fell",
         "id": "1",
         "recclass": "L5",
-        "reclat": "11.127123",
+        "reclat": "13.085130",
         "geolocation_city": null,
         "nametype": "Valid"
       }
     },
     
-   
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+      77.303562,
+       8.953008
+        ]
+      },
+      "properties": {
+        "mass": "15000",
+        "name": "Tenkasi",
+        "reclong": "77.303562",
+        "CSCCentres": 150,
+        "geolocation_zip": null,
+        "year": "1880-01-01T00:00:00.000",
+        "geolocation_state": null,
+        "fall": "Fell",
+        "id": "1",
+        "recclass": "L5",
+        "reclat": "8.953008",
+        "geolocation_city": null,
+        "nametype": "Valid"
+      }
+    },
    
   
     {
@@ -40,10 +64,10 @@
         ]
       },
       "properties": {
-        "mass": "600",
+        "mass": "70000",
         "name": "Madurai",
         "reclong": "78.127579",
-        "geolocation_address": null,
+        "CSCCentres": 700,
         "geolocation_zip": null,
         "year": "1905-01-01T00:00:00.000",
         "geolocation_state": null,
