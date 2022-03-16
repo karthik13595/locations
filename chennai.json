@@ -1,0 +1,504 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "district": "Chennai",
+        "st_code": 33,
+        "dt_code": 603,
+        "year": 2018,
+        "st_nm": "Tamil Nadu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80.12780332602912,
+              13.034447936153203
+            ],
+            [
+              80.13771421907381,
+              12.98269543621357
+            ],
+            [
+              80.17094486045896,
+              12.966944675362377
+            ],
+            [
+              80.18843467171429,
+              12.920817447155315
+            ],
+            [
+              80.18318772833769,
+              12.867377365695912
+            ],
+            [
+              80.20883945151218,
+              12.871877583081968
+            ],
+            [
+              80.24964901110796,
+              12.857251876577287
+            ],
+            [
+              80.25955990415265,
+              12.937130735179764
+            ],
+            [
+              80.29512252037183,
+              13.092950762171917
+            ],
+            [
+              80.30095245745694,
+              13.143015680591777
+            ],
+            [
+              80.24032111177178,
+              13.143015680591777
+            ],
+            [
+              80.20184352701004,
+              13.126139865394071
+            ],
+            [
+              80.18493670946323,
+              13.056949023083476
+            ],
+            [
+              80.18726868429727,
+              13.023759919861321
+            ],
+            [
+              80.12780332602912,
+              13.034447936153203
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0922dc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Center": "Alandur Division 159-TACTV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1732,
+          12.9872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0922dc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Center": "Alandur Division 163 - TACTV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2045,
+          12.9928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0922dc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Center": "Alandur TACTV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1916,
+          12.9829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0922dc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Center": "Division164 TACTV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.185,
+          12.9886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0922dc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Center": "Division166 TACTV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1792,
+          12.9791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0922dc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Center": "Division 167-Nanganallur, 100 ft Road -TACTV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1858,
+          12.979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0922dc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Center": "Ambattur Taluk Office TACTV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1472,
+          13.113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0922dc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Center": "Ambattur Zonal Office - TACTV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1524,
+          13.107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0922dc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Center": "Division 80 Pudur-TACTV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1593,
+          13.1243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0922dc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Center": "Division 81 Ambattur-TACTV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1546,
+          13.1178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0922dc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Center": "Division 86 Athipattu - TACTV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1702,
+          13.1002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0922dc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Center": "Division 90 Thirumangalam-TACTV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.188,
+          13.0854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0922dc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Center": "Division 92 Mogappair - TACTV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1531,
+          13.1297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0922dc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Center": "Division79 - TACTV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1471,
+          13.1231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0922dc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Center": "Division84 - TACTV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1824,
+          13.1112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0922dc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Center": "Division87 - TACTV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1779,
+          13.0791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0922dc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Center": "Division - 105 - TACTV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2127,
+          13.0712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0922dc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Center": "Division - 106 - TACTV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2201,
+          13.0718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0922dc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Center": "Division - 108 - TACTV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2155,
+          13.0665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0922dc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Center": "Unit Office 22 - TACTV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2206,
+          13.0915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0922dc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Center": "Division 142 - TACTV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2184,
+          13.0247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0922dc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Center": "Division116Unit27 - TACTV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2756,
+          13.0538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0922dc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Center": "Division 63 - TACTV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.265,
+          13.0706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0922dc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Center": "Division114 - TACTV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.276,
+          13.064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0922dc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Center": "Division115 - TACTV"
+      },
+      "geometry": {         xzvgdwre
+        "type": "Point",
+        "coordinates": [
+          80.2654,
+          13.0581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0922dc",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Center": "Division116 - TACTV"
+},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2756,
+          13.0538
+				]
+			}
+		}
+	}
+  ]
+}
