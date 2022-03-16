@@ -15,7 +15,7 @@
         "name": "Chennai",
         "reclong": "80.246410",
 		
-        "geolocation_address": null,
+        "geolocation_address": 418,
         "geolocation_zip": null,
         "year": "1880-01-01T00:00:00.000",
         "CSCCentres": 408,
@@ -40,7 +40,7 @@
         "mass": "60000",
         "name": "Tenkasi",
         "reclong": "77.376449",
-        "geolocation_address": null,
+        "geolocation_address": 418,
         "geolocation_zip": null,
         "year": "1905-01-01T00:00:00.000",
         "CSCCentres": 600,
