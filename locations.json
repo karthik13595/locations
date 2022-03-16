@@ -11,19 +11,13 @@
         ]
       },
       "properties": {
-        "mass": "45000",
-        "name": "Chennai",
+        "mass": "41100",
+        "district": "Chennai",
         "reclong": "80.2659891",
-        "CSCCentres": 450,
-        "geolocation_zip": null,
-        "year": "1880-01-01T00:00:00.000",
-        "geolocation_state": null,
-        "fall": "Fell",
-        "id": "1",
-        "recclass": "L5",
+        "CSCCentres": 411,
+        "CSCcentres_updated":418
         "reclat": "13.085130",
-        "geolocation_city": null,
-        "nametype": "Valid"
+       
       }
     },
     
@@ -37,19 +31,13 @@
         ]
       },
       "properties": {
-        "mass": "15000",
-        "name": "Tenkasi",
+        "mass": "9000",
+        "district": "Tenkasi",
         "reclong": "77.303562",
-        "CSCCentres": 150,
-        "geolocation_zip": null,
-        "year": "1880-01-01T00:00:00.000",
-        "geolocation_state": null,
-        "fall": "Fell",
-        "id": "1",
-        "recclass": "L5",
+        "CSCCentres":90,
+        "CSCcentres_updated":84,
         "reclat": "8.953008",
-        "geolocation_city": null,
-        "nametype": "Valid"
+       
       }
     },
    
@@ -64,19 +52,13 @@
         ]
       },
       "properties": {
-        "mass": "70000",
-        "name": "Madurai",
+        "mass": "33900",
+        "district": "Madurai",
         "reclong": "78.127579",
-        "CSCCentres": 700,
-        "geolocation_zip": null,
-        "year": "1905-01-01T00:00:00.000",
-        "geolocation_state": null,
-        "fall": "Fell",
-        "id": "24019",
-        "recclass": "LL6",
+        "CSCCentres":339,
+        "CSCcentres_updated":249,
         "reclat": "9.933491",
-        "geolocation_city": null,
-        "nametype": "Valid"
+       
       }
     }
   ],
