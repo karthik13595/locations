@@ -32,14 +32,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-         79.0786281,
-         11.1400585
+         79.361465,
+         11.209386
         ]
       },
       "properties": {
         "mass": "20500",
         "name": "Ariyalur",
-        "reclong": " 79.0786281",
+        "reclong": "79.361465",
 		
         "geolocation_address": 418,
         "geolocation_zip": null,
@@ -48,7 +48,7 @@
         "fall": "Fell",
         "id": "1",
         "recclass": "L5",
-        "reclat": "11.1400585",
+        "reclat": "11.209386",
         "updated": 294,
         "nametype": "Valid"
       }
