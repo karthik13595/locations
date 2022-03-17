@@ -1,0 +1,270 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         80.246410,
+         13.080147
+        ]
+      },
+      "properties": {
+        "mass": "40800",
+        "name": "Chennai",
+        "reclong": "80.246410",
+		
+        "geolocation_address": 418,
+        "geolocation_zip": null,
+        "year": "1880-01-01T00:00:00.000",
+        "CSCCentres": 408,
+        "fall": "Fell",
+        "id": "1",
+        "recclass": "L5",
+        "reclat": "13.080147",
+        "updated": 418,
+        "nametype": "Valid"
+      }
+    },
+	 {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         79.08428000000004,
+         11.139380000000074
+        ]
+      },
+      "properties": {
+        "mass": "20500",
+        "name": "Ariyalur",
+        "reclong": " 79.08428000000004,",
+		
+        "geolocation_address": 418,
+        "geolocation_zip": null,
+        "year": "1880-01-01T00:00:00.000",
+        "CSCCentres": 205,
+        "fall": "Fell",
+        "id": "1",
+        "recclass": "L5",
+        "reclat": "11.139380000000074",
+        "updated": 294,
+        "nametype": "Valid"
+      }
+    },
+	 {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         79.980499,
+         12.693620
+        ]
+      },
+      "properties": {
+        "mass": "21800",
+        "name": "Chengalpattu",
+        "reclong": "79.980499",
+		
+        "geolocation_address": 218,
+        "geolocation_zip": null,
+        "year": "1880-01-01T00:00:00.000",
+        "CSCCentres": 218,
+        "fall": "Fell",
+        "id": "1",
+        "recclass": "L5",
+        "reclat": "12.693620",
+        "updated": 183,
+        "nametype": "Valid"
+      }
+    },
+	 {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         76.96688,
+         10.994743
+        ]
+      },
+      "properties": {
+        "mass": "31700",
+        "name": "Coimbatore",
+        "reclong": "76.96688",
+		
+        "geolocation_address": 418,
+        "geolocation_zip": null,
+        "year": "1880-01-01T00:00:00.000",
+        "CSCCentres": 317,
+        "fall": "Fell",
+        "id": "1",
+        "recclass": "L5",
+        "reclat": "10.994743",
+        "updated": 299,
+        "nametype": "Valid"
+      }
+    },
+	 {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         79.762325,
+         11.75553
+        ]
+      },
+      "properties": {
+        "mass": "50100",
+        "name": "Cuddalore",
+        "reclong": "79.762325",
+		
+        "geolocation_address": 418,
+        "geolocation_zip": null,
+        "year": "1880-01-01T00:00:00.000",
+        "CSCCentres": 501,
+        "fall": "Fell",
+        "id": "1",
+        "recclass": "L5",
+        "reclat": "11.75553",
+        "updated": 447,
+        "nametype": "Valid"
+      }
+    },
+	 {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         78.161203,
+         12.134803
+        ]
+      },
+      "properties": {
+        "mass": "38800",
+        "name": "Dharmapuri",
+        "reclong": "78.161203",
+		
+        "geolocation_address": 418,
+        "geolocation_zip": null,
+        "year": "1880-01-01T00:00:00.000",
+        "CSCCentres": 388,
+        "fall": "Fell",
+        "id": "1",
+        "recclass": "L5",
+        "reclat": "12.134803",
+        "updated": 393,
+        "nametype": "Valid"
+      }
+    },
+	 {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         77.968908,
+        10.361936
+        ]
+      },
+      "properties": {
+        "mass": "28700",
+        "name": "Dindigul",
+        "reclong": "77.968908",
+		
+        "geolocation_address": 418,
+        "geolocation_zip": null,
+        "year": "1880-01-01T00:00:00.000",
+        "CSCCentres": 287,
+        "fall": "Fell",
+        "id": "1",
+        "recclass": "L5",
+        "reclat": "10.361936",
+        "updated": 216,
+        "nametype": "Valid"
+      }
+    },
+	 {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         77.72772,
+         11.334348
+        ]
+      },
+      "properties": {
+        "mass": "35600",
+        "name": "Erode",
+        "reclong": " 77.72772",
+		
+        "geolocation_address": 418,
+        "geolocation_zip": null,
+        "year": "1880-01-01T00:00:00.000",
+        "CSCCentres": 356,
+        "fall": "Fell",
+        "id": "1",
+        "recclass": "L5",
+        "reclat": "11.334348",
+        "updated": 295,
+        "nametype": "Valid"
+      }
+    },
+	 {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         78.963882,
+         11.738187
+        ]
+      },
+      "properties": {
+        "mass": "25700",
+        "name": "Kallakurichi",
+        "reclong": "78.963882",
+		
+        "geolocation_address": 418,
+        "geolocation_zip": null,
+        "year": "1880-01-01T00:00:00.000",
+        "CSCCentres": 257,
+        "fall": "Fell",
+        "id": "1",
+        "recclass": "L5",
+        "reclat": "11.738187",
+        "updated": 148,
+        "nametype": "Valid"
+      }
+    },
+	 {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.376449,
+         9.033409
+        ]
+      },
+      "properties": {
+        "mass": "9000",
+        "name": "Tenkasi",
+        "reclong": "77.376449",
+        "geolocation_address": 418,
+        "geolocation_zip": null,
+        "year": "1905-01-01T00:00:00.000",
+        "CSCCentres": 90,
+        "fall": "Fell",
+        "id": "24019",
+        "recclass": "LL6",
+        "reclat": "9.033409",
+        "updated": 84,
+        "nametype": "Valid"
+      }
+    }
+  ],
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  }
+}
