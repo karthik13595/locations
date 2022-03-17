@@ -32,14 +32,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-         79.08428000000004,
-         11.139380000000074
+         79.0786281,
+         11.1400585
         ]
       },
       "properties": {
         "mass": "20500",
         "name": "Ariyalur",
-        "reclong": " 79.08428000000004,",
+        "reclong": " 79.0786281",
 		
         "geolocation_address": 418,
         "geolocation_zip": null,
@@ -48,7 +48,7 @@
         "fall": "Fell",
         "id": "1",
         "recclass": "L5",
-        "reclat": "11.139380000000074",
+        "reclat": "11.1400585",
         "updated": 294,
         "nametype": "Valid"
       }
@@ -58,14 +58,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-         79.980499,
-         12.693620
+         80.038726,
+         12.582980
         ]
       },
       "properties": {
         "mass": "21800",
         "name": "Chengalpattu",
-        "reclong": "79.980499",
+        "reclong": "80.038726",
 		
         "geolocation_address": 218,
         "geolocation_zip": null,
@@ -74,7 +74,7 @@
         "fall": "Fell",
         "id": "1",
         "recclass": "L5",
-        "reclat": "12.693620",
+        "reclat": "12.582980",
         "updated": 183,
         "nametype": "Valid"
       }
@@ -188,14 +188,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-         77.72772,
-         11.334348
+        77.484860,
+         11.438570
         ]
       },
       "properties": {
         "mass": "35600",
         "name": "Erode",
-        "reclong": " 77.72772",
+        "reclong": " 77.484860",
 		
         "geolocation_address": 418,
         "geolocation_zip": null,
@@ -204,7 +204,7 @@
         "fall": "Fell",
         "id": "1",
         "recclass": "L5",
-        "reclat": "11.334348",
+        "reclat": "11.438570",
         "updated": 295,
         "nametype": "Valid"
       }
