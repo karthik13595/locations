@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-         80.246410,
-         13.080147
+         80.277181,
+         13.018239
         ]
       },
       "properties": {
@@ -110,14 +110,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-         79.762325,
-         11.75553
+         79.564847,
+         11.532506
         ]
       },
       "properties": {
         "mass": "50100",
         "name": "Cuddalore",
-        "reclong": "79.762325",
+        "reclong": "79.564847",
 		
         "geolocation_address": 418,
         "geolocation_zip": null,
@@ -126,7 +126,7 @@
         "fall": "Fell",
         "id": "1",
         "recclass": "L5",
-        "reclat": "11.75553",
+        "reclat": "11.532506",
         "updated": 447,
         "nametype": "Valid"
       }
