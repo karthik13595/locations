@@ -646,17 +646,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-       78.514821,
-        9.846895
+      77.735763,
+      8.541368
         ]
       },
       "properties": {
         "mass": "25700",
         "name": "Tirunelveli",
-        "reclong": "78.514821",
-            "CSCCentres": 466,
-        "reclat": "9.846895",
-        "updated": 541,
+        "reclong": "77.735763",
+            "CSCCentres": 268,
+        "reclat": "8.541368",
+        "updated": 172,
         "nametype": "Valid"
       }
     },
