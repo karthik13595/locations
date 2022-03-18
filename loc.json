@@ -527,15 +527,260 @@
         "nametype": "Valid"
       }
     },
-	 
-	 
+	     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       79.147918,
+        10.768758
+        ]
+      },
+      "properties": {
+        "mass": "25700",
+        "name": "Thanjavur",
+        "reclong": "79.147918",
+            "CSCCentres": 292,
+        "reclat": "10.768758",
+        "updated": 244,
+        "nametype": "Valid"
+      }
+    },
+	     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       77.372591,
+       9.791076
+        ]
+      },
+      "properties": {
+        "mass": "25700",
+        "name": "Theni",
+        "reclong": "77.372591",
+            "CSCCentres": 184,
+        "reclat": "9.791076",
+        "updated": 194,
+        "nametype": "Valid"
+      }
+    },
+	   {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       78.686856,
+        10.759380
+        ]
+      },
+      "properties": {
+        "mass": "25700",
+        "name": "Thiruchirapalli",
+        "reclong": "78.686856",
+            "CSCCentres": 251,
+        "reclat": "10.759380",
+        "updated": 391,
+        "nametype": "Valid"
+      }
+    }, 
+	    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       78.544125,
+       12.492090
+        ]
+      },
+      "properties": {
+        "mass": "25700",
+        "name": "Thirupathur",
+        "reclong": "78.544125",
+            "CSCCentres": 198,
+        "reclat": "12.492090",
+        "updated": 164,
+        "nametype": "Valid"
+      }
+    },
+	     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       79.449282,
+       10.725246
+        ]
+      },
+      "properties": {
+        "mass": "25700",
+        "name": "Tiruvarur",
+        "reclong": "79.449282",
+            "CSCCentres": 303,
+        "reclat": "10.725246",
+        "updated": 289,
+        "nametype": "Valid"
+      }
+    },
+	     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       78.103378,
+       8.837850
+        ]
+      },
+      "properties": {
+        "mass": "25700",
+        "name": "Thoothukudi",
+        "reclong": "78.103378",
+            "CSCCentres": 268,
+        "reclat": "8.837850",
+        "updated": 173,
+        "nametype": "Valid"
+      }
+    },
+	     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       78.514821,
+        9.846895
+        ]
+      },
+      "properties": {
+        "mass": "25700",
+        "name": "Tirunelveli",
+        "reclong": "78.514821",
+            "CSCCentres": 466,
+        "reclat": "9.846895",
+        "updated": 541,
+        "nametype": "Valid"
+      }
+    },
+	     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       77.341900,
+        11.085966
+        ]
+      },
+      "properties": {
+        "mass": "25700",
+        "name": "Tiruppur",
+        "reclong": "77.341900",
+            "CSCCentres": 288,
+        "reclat": "11.085966",
+        "updated": 239,
+        "nametype": "Valid"
+      }
+    },
+	     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       79.903566,
+       13.132711
+        ]
+      },
+      "properties": {
+        "mass": "25700",
+        "name": "Tiruvallur",
+        "reclong": "79.903566",
+            "CSCCentres": 344,
+        "reclat": "13.132711",
+        "updated": 173,
+        "nametype": "Valid"
+      }
+    },
+	     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       78.995981,
+        12.431480
+        ]
+      },
+      "properties": {
+        "mass": "25700",
+        "name": "Tiruvannamalai",
+        "reclong": "78.995981",
+            "CSCCentres": 505,
+        "reclat": "12.431480",
+        "updated": 491,
+        "nametype": "Valid"
+      }
+    },
+	     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       79.127456,
+       12.901906
+        ]
+      },
+      "properties": {
+        "mass": "25700",
+        "name": "Vellore",
+        "reclong": "79.127456",
+            "CSCCentres": 184,
+        "reclat": "12.901906",
+        "updated": 107,
+        "nametype": "Valid"
+      }
+    },
+	     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       79.507129,
+       11.943071
+        ]
+      },
+      "properties": {
+        "mass": "25700",
+        "name": "Villupuram",
+        "reclong": "79.507129",
+            "CSCCentres": 282,
+        "reclat": "11.943071",
+        "updated": 225,
+        "nametype": "Valid"
+      }
+    },
+	     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       77.927523,
+      9.513267
+        ]
+      },
+      "properties": {
+        "mass": "25700",
+        "name": "Virudhunagar",
+        "reclong": "77.927523",
+            "CSCCentres": 355,
+        "reclat": "9.513267",
+        "updated": 392,
+        "nametype": "Valid"
+      }
+    },
 	 {
       "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
           77.376449,
-         9.033409
+          9.033409
         ]
       },
       "properties": {
