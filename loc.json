@@ -280,6 +280,101 @@
         "nametype": "Valid"
       }
     },
+	     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       78.019312,
+        10.925281
+        ]
+      },
+      "properties": {
+        "mass": "25700",
+        "name": "Karur",
+        "reclong": "78.019312",
+            "CSCCentres": 181,
+        "reclat": "8.380812",
+        "updated": 192,
+        "nametype": "Valid"
+      }
+    },
+	     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+      78.060538,
+        12.553759
+        ]
+      },
+      "properties": {
+        "mass": "25700",
+        "name": "Krishnagiri",
+        "reclong": "78.060538",
+            "CSCCentres": 181,
+        "reclat": "12.553759",
+        "updated": 192,
+        "nametype": "Valid"
+      }
+    },
+	     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+      78.127050,
+         9.935576
+        ]
+      },
+      "properties": {
+        "mass": "25700",
+        "name": "Madurai",
+        "reclong": "78.127050",
+            "CSCCentres": 181,
+        "reclat": "9.935576",
+        "updated": 192,
+        "nametype": "Valid"
+      }
+    },
+	     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+      79.654052,
+       11.102745
+        ]
+      },
+      "properties": {
+        "mass": "25700",
+        "name": "Mayiladuthurai",
+        "reclong": "79.654052",
+            "CSCCentres": 181,
+        "reclat": "11.102745",
+        "updated": 192,
+        "nametype": "Valid"
+      }
+    },
+	     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       79.814210,
+        10.720929
+        ]
+      },
+      "properties": {
+        "mass": "25700",
+        "name": "Nagapattinam",
+        "reclong": "79.814210",
+            "CSCCentres": 181,
+        "reclat": "10.720929",
+        "updated": 192,
+        "nametype": "Valid"
+      }
+    },
 	 
 	 {
       "type": "Feature",
