@@ -261,6 +261,25 @@
         "nametype": "Valid"
       }
     },
+	    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       77.264597,
+         8.380812
+        ]
+      },
+      "properties": {
+        "mass": "25700",
+        "name": "Kanniyakumari",
+        "reclong": "77.264597",
+            "CSCCentres": 181,
+        "reclat": "8.380812",
+        "updated": 192,
+        "nametype": "Valid"
+      }
+    },
 	 
 	 {
       "type": "Feature",
