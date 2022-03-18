@@ -375,6 +375,159 @@
         "nametype": "Valid"
       }
     },
+	   {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       78.161874,
+       11.231613
+        ]
+      },
+      "properties": {
+        "mass": "25700",
+        "name": "Namakkal",
+        "reclong": "78.161874",
+            "CSCCentres": 254,
+        "reclat": "11.231613",
+        "updated": 251,
+        "nametype": "Valid"
+      }
+    },
+	   {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       76.696798,
+       11.408552
+        ]
+      },
+      "properties": {
+        "mass": "25700",
+        "name": "Nilgris",
+        "reclong": "76.696798",
+            "CSCCentres": 102,
+        "reclat": "11.408552",
+        "updated": 132,
+        "nametype": "Valid"
+      }
+    },
+	   {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       78.880752,
+       11.251009
+        ]
+      },
+      "properties": {
+        "mass": "25700",
+        "name": "Perambalur",
+        "reclong": "78.880752",
+            "CSCCentres": 208,
+        "reclat": "11.251009",
+        "updated": 206,
+        "nametype": "Valid"
+      }
+    },
+	   {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       78.812247,
+        10.376456
+        ]
+      },
+      "properties": {
+        "mass": "25700",
+        "name": "Pudukottai",
+        "reclong": "78.812247",
+            "CSCCentres": 340,
+        "reclat": "10.376456",
+        "updated": 201,
+        "nametype": "Valid"
+      }
+    },
+	   {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+      78.854194,
+       9.339316
+        ]
+      },
+      "properties": {
+        "mass": "25700",
+        "name": "Ramanathapuram",
+        "reclong": "78.854194",
+            "CSCCentres": 468,
+        "reclat": "9.339316",
+        "updated": 458,
+        "nametype": "Valid"
+      }
+    },
+	   {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+      79.354358,
+       12.908064
+        ]
+      },
+      "properties": {
+        "mass": "25700",
+        "name": "Ranipet",
+        "reclong": "79.354358",
+            "CSCCentres": 126,
+        "reclat": "12.908064",
+        "updated": 93,
+        "nametype": "Valid"
+      }
+    },
+	   {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       78.244468,
+        11.640398
+        ]
+      },
+      "properties": {
+        "mass": "25700",
+        "name": "Salem",
+        "reclong": "78.244468",
+            "CSCCentres": 500,
+        "reclat": "11.640398",
+        "updated": 500,
+        "nametype": "Valid"
+      }
+    },
+	   {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+       78.514821,
+        9.846895
+        ]
+      },
+      "properties": {
+        "mass": "25700",
+        "name": "Sivagangai",
+        "reclong": "78.514821",
+            "CSCCentres": 268,
+        "reclat": "9.846895",
+        "updated": 173,
+        "nametype": "Valid"
+      }
+    },
+	 
 	 
 	 {
       "type": "Feature",
